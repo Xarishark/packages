@@ -37,6 +37,6 @@ install -Dm 644 data/metainfo/io.github.xarishark.mount-manager.metainfo.xml %{b
 
 %changelog
 * Fri May 15 2026 Zacharias Xenakis <xarishark@outlook.com>
-- Initial package
-* Fri May 15 2026 Zacharias Xenakis <xarishark@outlook.com>
 - migrated to new source GIT
+* Fri May 15 2026 Zacharias Xenakis <xarishark@outlook.com>
+- Initial package
